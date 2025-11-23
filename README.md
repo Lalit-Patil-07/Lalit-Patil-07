@@ -15,7 +15,7 @@ I'm a postgraduate student in **Data Science & Big Data Analytics** at MIT World
 
 * Building intelligent solutions using **Python**, **TensorFlow**, and **Scikit-learn**
 * Analyzing data using **SQL**, **Pandas**, and **PySpark**
-* Visualizing insights with **Power BI**, **Excel**, and **Matplotlib**
+* Visualizing insights with **Excel**, and **Matplotlib**
 
 ### 📢 Let's Connect
 
